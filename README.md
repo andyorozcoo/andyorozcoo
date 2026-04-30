@@ -1,4 +1,4 @@
-<div align="center">
+_<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Andy%20Orozco&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
@@ -84,7 +84,7 @@ While backend is my main focus, I also work across the full stack when needed, i
 ## 📫 Connect with me
 
 <p>
-  <a href="mailto:andyorozcocastro98@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=andyorozcocastro98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/andy-orozco">
