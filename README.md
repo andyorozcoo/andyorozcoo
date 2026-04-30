@@ -17,6 +17,7 @@ I like working with REST APIs using PHP (Laravel) and also creating interfaces w
 I've worked in team projects using Scrum, taking on roles like Developer, Scrum Master, and QA, which helped me grow both technically and in teamwork.
 
 I enjoy understanding how everything connects — from the database and backend logic to the user experience — and continuously improving my skills along the way.
+
 ---
 
 ## 🛠️ Tech Stack
