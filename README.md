@@ -10,14 +10,13 @@ _<div align="center">
 
 ## 🚀 About Me
 
-Hi! I'm Andy 👋 — a Systems Engineering student focused on **backend development** and building **scalable web applications**.
+Hi! I'm Andy 👋 — a Systems Engineering student who enjoys building complete web applications, both on the backend and the frontend.
 
-I specialize in designing and developing **REST APIs** using **PHP (Laravel)**, applying patterns like **MVC** and principles such as **Clean Architecture**.
+I like working with REST APIs using PHP (Laravel) and also creating interfaces with technologies like Vue and React, focusing on clean, organized, and scalable solutions.
 
-I’ve worked in collaborative environments using **Scrum**, taking roles as **Developer**, **Scrum Master**, and **QA**, which has strengthened both my technical and teamwork skills.
+I've worked in team projects using Scrum, taking on roles like Developer, Scrum Master, and QA, which helped me grow both technically and in teamwork.
 
-While backend is my main focus, I also work across the full stack when needed, integrating modern frontend technologies to deliver complete solutions.
-
+I enjoy understanding how everything connects — from the database and backend logic to the user experience — and continuously improving my skills along the way.
 ---
 
 ## 🛠️ Tech Stack
